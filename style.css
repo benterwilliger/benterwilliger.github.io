@@ -1,0 +1,13 @@
+	body { background: darkblue;
+				color: white;
+				font-size: 18pt; }
+	
+	
+	
+	
+	
+	nav li { display: inline-block;
+				border: 8px black;
+				padding: 8px;
+				margin: -5px;
+				background: lightblue; }
